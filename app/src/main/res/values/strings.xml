@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">381Week2</string>
+    <string name="buttonPlayText">Play</string>
+    <string name="buttonStopText">Stop</string>
+    <string name="isPlaying">Song is playing...</string>
+    <string name="stopped">Song is stopped...</string>
+    <string name="buttonPauseText">Pause</string>
+    <string name="isPaused">Song is paused...</string>
+</resources>
